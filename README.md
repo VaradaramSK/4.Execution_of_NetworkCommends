@@ -56,13 +56,16 @@ print(result,unans)
 ## Output:
 ### PING COMMAND
 #### CLIENT
-![4-1](https://github.com/Divya110205/4.Execution_of_NetworkCommends/assets/119404855/e13ac1d1-e96b-41ae-b6fe-b95a747de3c8)
+
+![image](https://github.com/VaradaramSK/4.Execution_of_NetworkCommends/assets/144356171/7d14097a-a1d9-485d-be13-94b157c271d6)
 
 #### SERVER
-![4-2](https://github.com/Divya110205/4.Execution_of_NetworkCommends/assets/119404855/eccc570d-e5bd-47b8-adad-067c408cb650)
+
+![image](https://github.com/VaradaramSK/4.Execution_of_NetworkCommends/assets/144356171/55491c3f-2427-4ee9-a0fb-530c80b5cd29)
 
 ### TRACEROUTE COMMAND
-![4-3](https://github.com/Divya110205/4.Execution_of_NetworkCommends/assets/119404855/e451f0ab-6927-4f8d-8de4-2ad928008669)
+
+![image](https://github.com/VaradaramSK/4.Execution_of_NetworkCommends/assets/144356171/1f5d8901-9514-44f9-a3fa-f700c40303f4)
 
 ## Result:
 Thus Execution of Network commands Performed 
